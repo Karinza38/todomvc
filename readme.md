@@ -1,4 +1,4 @@
-# ![TodoMVC](media/logo.png)
+ # ![TodoMVC](media/logo.png)
 
 > Helping you select an MV\* framework
 
